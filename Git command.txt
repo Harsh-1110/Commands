@@ -7,3 +7,5 @@ git checkout "version code"
 git checkout master
 git remote add origin 
 git pull origin master "URL of repository"
+git branch "Branch name"
+git branch "To get all branches"
