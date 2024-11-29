@@ -2,3 +2,6 @@ Git init
 Git status
 Git add .
 git commit -m "Name"
+git log 
+git checkout "version code"
+git checkout master
